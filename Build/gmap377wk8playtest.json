@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Holy Testers",
+"productVersion": "0.1",
+"dataUrl": "gmap377wk8playtest.data.unityweb",
+"wasmCodeUrl": "gmap377wk8playtest.wasm.code.unityweb",
+"wasmFrameworkUrl": "gmap377wk8playtest.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.1f1"
+}
